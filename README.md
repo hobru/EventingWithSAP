@@ -7,8 +7,9 @@ On the SAP Discovery Center you can find three main services to help you with Ev
 - SAP Advanced Event Mesh
 
 ## Let's start with Event Mesh. 
-You can find the video here: 
-[![End to end configuration of SAP Event Mesh and SAP S/4HANA](img/EventingWithSAP#1.jpg)](https://youtu.be/E32dwoxnEHY)
+You can find the end to end setup video here: 
+[![End to end configuration of SAP Event Mesh and SAP S/4HANA](img/EventingWithSAP1.jpg)](https://youtu.be/E32dwoxnEHY)
+
 
 ### SAP Event Mesh Configuration
 During the configuration of the SAP Event Mesh Service instance, you need to provide a configuration in JSON. Here is the structure that I used in the video
